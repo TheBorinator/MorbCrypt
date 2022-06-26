@@ -7,7 +7,7 @@ A cyptographically EPIC encryption library.
 Install MorbCrypt NOW with npm
 
 ```bash
-  npm install MorbCrypt
+npm install morb-crypt
 ```
 
 ## Usage
