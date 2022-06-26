@@ -1,0 +1,11 @@
+{
+  "name": "morb-crypt",
+  "version": "1.0.0",
+  "description": "A cyptographically EPIC encryption library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheBorinator",
+  "license": "MIT"
+}
