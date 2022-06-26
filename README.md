@@ -21,7 +21,7 @@ const MorbCrypt = require('morb-crypt');
 To encrypt a string:
 
 ```javascript
-const encryptedString = MorbCrypt.encrypt('Mobin22!');
+const encryptedString = MorbCrypt.encrypt('Morbin22!');
 ```
 
 To decrypt a string:
