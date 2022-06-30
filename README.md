@@ -39,3 +39,6 @@ const isValid = MorbCrypt.verify('Morbin Time', '<massive fuckoff hash>');
 ## Appendix
 
 Jokes aside; *don't fucking use this.*
+I am not responsible for any fuck-ups you might make.
+
+I am in no way associated with Columbia Pictures, Marvel, Sony Pictures or any *Morbius* franchisee.
