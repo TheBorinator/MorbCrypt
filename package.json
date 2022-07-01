@@ -1,6 +1,6 @@
 {
   "name": "morb-crypt",
-  "version": "1.2.3",
+  "version": "4.2.0",
   "description": "A cyptographically EPIC encryption library.",
   "main": "index.js",
   "scripts": {
